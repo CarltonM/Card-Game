@@ -51,6 +51,9 @@ public abstract class Board {
 		deck.shuffle();
 		dealMyCards();
 	}
+	
+	private Deck maggieHACK; 
+	#JavaYo
 
 	/**
 	 * Accesses the size of the board.

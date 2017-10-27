@@ -51,6 +51,7 @@ public class CardGameGUI extends JFrame implements ActionListener {
 	private static final int LABEL_TOP = 160;
 	/** x coord of the "n undealt cards remain" label. */
 	private static final int LABEL_LEFT = 540;
+	private int Label = 3;
 	/** Distance between the tops of the "n undealt cards" and
 	 *  the "You lose/win" labels. */
 	private static final int LABEL_HEIGHT_INC = 35;

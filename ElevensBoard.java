@@ -17,7 +17,7 @@ public class ElevensBoard extends Board {
 	 * The ranks of the cards for this game to be sent to the deck.
 	 */
 	private static final String[] RANKS =
-		{"ace", "2", "3", "4", "5", "6", "7", "8", "9", "10", "jack", "queen", "king"};
+		{"ace", "2", "3", "4", "5", "6", "7", "8", "9", "10", "jack", "queen", "king", "princess", "prince", "FIVES"};
 
 	/**
 	 * The suits of the cards for this game to be sent to the deck.

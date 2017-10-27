@@ -12,6 +12,7 @@ public class Shuffler {
 	 * to each sorting procedure.
 	 */
 	private static final int SHUFFLE_COUNT = 8;
+	public static final int Shuffle = SHUFFLE_COUNT;
 
 
 	/**
